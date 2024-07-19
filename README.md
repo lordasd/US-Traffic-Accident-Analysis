@@ -49,4 +49,4 @@ streamlit run visualizer.py
 If you'd like to contribute to this project or report any issues, please open an issue or submit a pull request on the project's repository.
 
 ## License
-[Specify the license under which this project is released, e.g., MIT, GPL, etc.]
+This project is licensed under the MIT License - see the `LICENSE` file for details.
